@@ -1,1 +1,1 @@
-# yago-tc
+# Revisiting Evaluation of Knowledge Base Completion Models
