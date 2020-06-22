@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+* * *
 # What is YAGO3-TC?
 
 <p class="text right-align text-large add-top-margin" style="width:100%;">
