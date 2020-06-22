@@ -18,7 +18,8 @@ layout: default
         </td>
         <td align="center">
             <font style="font-size:20px"><b>Leaderboard</b></font>
-                 <table class="content-table" rules="rows" align="center">
+            <div class="menu-container noselect" align="center">
+             <table class="content-table" rules="rows">
                     <tr>
                        <td>
                            Rank
@@ -64,6 +65,7 @@ layout: default
                        </td> 
                     </tr>
                  </table>
+               </div>
          </td> 
       </tr>
    </table>
