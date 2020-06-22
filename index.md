@@ -19,6 +19,56 @@ layout: default
         <td>
          <font style="font-size:20px"><b>Leaderboard</b></font>
           <hr>
+                 <table class="content-table">
+                    <tr>
+                       <td>
+                           Rank
+                       </td> 
+                       <td>
+                           Model
+                       </td> 
+                       <td>
+                           F1
+                       </td> 
+                    </tr>
+                    <hr>
+                    <tr>
+                       <td>
+                           1
+                       </td> 
+                       <td>
+                           Tucker
+                       </td> 
+                       <td>
+                           22.3
+                       </td> 
+                    </tr>
+                    <hr>
+                    <tr>
+                       <td>
+                           2
+                       </td> 
+                       <td>
+                           DistMult
+                       </td> 
+                       <td>
+                           20.4
+                       </td> 
+                    </tr>
+                    <hr>
+                    <tr>
+                       <td>
+                           3
+                       </td> 
+                       <td>
+                           RotatE
+                       </td> 
+                       <td>
+                           19.4
+                       </td> 
+                    </tr>
+                    <hr>
+                 </table>
          </td> 
       </tr>
    </table>
