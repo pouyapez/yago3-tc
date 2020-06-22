@@ -308,7 +308,12 @@ a {
       margin-bottom: 0;
     }
   }
-
+  
+  div.container {
+    width:98%; 
+    margin:1%;
+  }
+  
   table {
     display: block;
     width: 100%;
