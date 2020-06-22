@@ -4,7 +4,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
       <tr>
-        <td style="width:80%;">
+        <td style="width:40%;">
         <font style="font-size:20px"><b>What is YAGO3-TC?</b></font>
          <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -69,3 +69,13 @@ layout: default
    </table>
 </div>
 
+# Citation:
+<p>
+@inproceedings{pezeshkpourrevisiting,
+  title={Revisiting Evaluation of Knowledge Base Completion Models},
+  author={Pezeshkpour, Pouya and Tian, Yifan and Singh, Sameer},
+  booktitle={Automated Knowledge Base Construction (AKBC)},
+  year={2020}
+   
+}   
+</p>
