@@ -4,7 +4,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
       <tr>
-        <td style="width:40%;">
+        <td style="width:60%;">
         <font style="font-size:20px"><b>What is YAGO3-TC?</b></font>
          <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">
