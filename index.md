@@ -16,8 +16,8 @@ layout: default
         Coming soon!
         </p>
         </td>
-        <td align="right">
-         <font style="font-size:20px"><b>Leaderboard</b></font>
+        <td align="center">
+            <font style="font-size:20px"><b>Leaderboard</b></font>
                  <table class="content-table" rules="rows">
                     <tr>
                        <td>
