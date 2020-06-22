@@ -8,7 +8,7 @@ layout: default
         <font style="font-size:20px"><b>What is YAGO3-TC?</b></font>
          <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">
-        YAGO3-TC is a semi-complete KG created from a random subgraph of the test and validation data of YAGO3-10. As the test        data, it contains 28,364 triples from which 2,976 ones of them labled as positive triples. 
+        YAGO3-TC is a semi-complete KG created from a random subgraph of the test and validation data of YAGO3-10. As the test        data, it contains 28,364 triples from which 2,976 ones of them labeled as positive triples. 
         </p>
         <font style="font-size:20px"><b>Submission instructions</b></font>
           <hr>
@@ -19,7 +19,7 @@ layout: default
         <td>
          <font style="font-size:20px"><b>Leaderboard</b></font>
           <hr>
-                 <table class="content-table">
+                 <table class="content-table" rules=rows>
                     <tr>
                        <td>
                            Rank
@@ -31,7 +31,6 @@ layout: default
                            F1
                        </td> 
                     </tr>
-                    <hr>
                     <tr>
                        <td>
                            1
@@ -43,7 +42,6 @@ layout: default
                            22.3
                        </td> 
                     </tr>
-                    <hr>
                     <tr>
                        <td>
                            2
@@ -55,7 +53,6 @@ layout: default
                            20.4
                        </td> 
                     </tr>
-                    <hr>
                     <tr>
                        <td>
                            3
@@ -67,7 +64,6 @@ layout: default
                            19.4
                        </td> 
                     </tr>
-                    <hr>
                  </table>
          </td> 
       </tr>
