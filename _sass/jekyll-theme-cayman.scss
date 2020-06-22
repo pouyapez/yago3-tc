@@ -111,7 +111,7 @@ a {
   background-color: $header-bg-color;
   background-image: url("https://github.com/pouyapez/yago3-tc/blob/gh-pages/images/backg.JPG");//linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-size: cover;
-  height: 500px !important;
+  height: 400px !important;
   
   @include large {
     padding: 5rem 6rem;
