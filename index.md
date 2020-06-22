@@ -73,9 +73,9 @@ layout: default
 ***
 <p>
 @inproceedings{pezeshkpourrevisiting, <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; title={Revisiting Evaluation of Knowledge Base Completion Models},<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; author={Pezeshkpour, Pouya and Tian, Yifan and Singh, Sameer},<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; booktitle={Automated Knowledge Base Construction (AKBC)},<>br
-  &nbsp;&nbsp;&nbsp;&nbsp; year={2020}<br>   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Revisiting Evaluation of Knowledge Base Completion Models},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Pezeshkpour, Pouya and Tian, Yifan and Singh, Sameer},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Automated Knowledge Base Construction (AKBC)},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020}<br>   
 }   
 </p>
