@@ -18,7 +18,6 @@ layout: default
         </td>
         <td>
          <font style="font-size:20px"><b>Leaderboard</b></font>
-          <hr>
                  <table class="content-table" rules="rows">
                     <tr>
                        <td>
