@@ -17,8 +17,8 @@ layout: default
         </p>
         </td>
         <td align="center">
-            <font style="font-size:20px"><b>Leaderboard</b></font>
             <div class="container" style="text-align:center;">
+               <font style="font-size:20px"><b>Leaderboard</b></font>
                <table class="content-table" rules="rows">
                     <tr>
                        <td>
