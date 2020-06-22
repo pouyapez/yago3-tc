@@ -18,7 +18,7 @@ layout: default
         </td>
         <td align="center">
             <font style="font-size:20px"><b>Leaderboard</b></font>
-                 <table class="content-table" rules="rows">
+                 <table class="content-table" rules="rows" align="center">
                     <tr>
                        <td>
                            Rank
