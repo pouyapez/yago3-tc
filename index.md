@@ -38,7 +38,7 @@ layout: default
                            Tucker
                        </td> 
                        <td>
-                           22.3
+                           <b>22.3</b>
                        </td> 
                     </tr>
                     <tr>
