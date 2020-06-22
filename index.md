@@ -16,9 +16,9 @@ layout: default
         Coming soon!
         </p>
         </td>
-        <td align="center">
+        <td style="width:50%;" align="center">
             <font style="font-size:20px"><b>Leaderboard</b></font>
-            <div class="menu-container noselect" align="center">
+            <div class="menu-container noselect" align="right">
              <table class="content-table" rules="rows">
                     <tr>
                        <td>
