@@ -18,7 +18,7 @@ layout: default
         </td>
         <td align="center">
             <font style="font-size:20px"><b>Leaderboard</b></font>
-            <div class="menu-container noselect" align="right">
+            <div class="menu-container noselect" style="text-align:center;">
                <table class="content-table" rules="rows">
                     <tr>
                        <td>
