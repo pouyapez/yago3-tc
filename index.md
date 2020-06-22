@@ -13,13 +13,13 @@ layout: default
         <font style="font-size:20px"><b>Submission instructions</b></font>
           <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">
-        coming soon
+        Coming soon!
         </p>
         </td>
         <td>
          <font style="font-size:20px"><b>Leaderboard</b></font>
           <hr>
-                 <table class="content-table" rules=rows>
+                 <table class="content-table" rules="rows">
                     <tr>
                        <td>
                            Rank
