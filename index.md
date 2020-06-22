@@ -69,13 +69,13 @@ layout: default
    </table>
 </div>
 
-# Citation:
+<font style="font-size:20px"><b>Citation:</b></font>
+***
 <p>
-@inproceedings{pezeshkpourrevisiting,
-  title={Revisiting Evaluation of Knowledge Base Completion Models},
-  author={Pezeshkpour, Pouya and Tian, Yifan and Singh, Sameer},
-  booktitle={Automated Knowledge Base Construction (AKBC)},
-  year={2020}
-   
+@inproceedings{pezeshkpourrevisiting, <br>
+  title={Revisiting Evaluation of Knowledge Base Completion Models},<br>
+  author={Pezeshkpour, Pouya and Tian, Yifan and Singh, Sameer},<br>
+  booktitle={Automated Knowledge Base Construction (AKBC)},<>br
+  year={2020}<br>   
 }   
 </p>
