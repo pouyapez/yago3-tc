@@ -70,9 +70,8 @@ layout: default
       </tr>
    </table>
 </div>
-
-<font style="font-size:20px"><b>Citation:</b></font>
 ***
+<font style="font-size:20px"><b>Citation:</b></font>
 <p>
 @inproceedings{pezeshkpourrevisiting, <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Revisiting Evaluation of Knowledge Base Completion Models},<br>
