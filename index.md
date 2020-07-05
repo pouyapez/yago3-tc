@@ -12,11 +12,8 @@ layout: default
         </p>
         <font style="font-size:20px"><b>Submission instructions</b></font>
           <hr>
-        <p class="text right-align text-large add-top-margin" style="width:100%;">
-           <form id="uploadbanner" enctype="multipart/form-data" method="post" action="#">
-            <input id="fileupload" name="myfile" type="file" />
-            <input type="submit" value="submit" id="submit" />
-           </form>
+        <p class="text right-align text-large add-top-margin" style="width:100%;">           
+           You can find the validation and test data <a href="https://github.com/pouyapez/yago3-tc/tree/master/data">here</a>. To get the ranking and evaluation metrics, after training the triple classifier, please submit the labels of test triple in here.  
         </p>
         </td>
         <td align="center">
