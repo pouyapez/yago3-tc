@@ -13,9 +13,9 @@ layout: default
         <font style="font-size:20px"><b>Submission instructions</b></font>
           <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">
-           <form action="/action_page.php">
-            <input type="file" id="myFile" name="filename">
-            <input type="submit">
+           <form id="uploadbanner" enctype="multipart/form-data" method="post" action="#">
+            <input id="fileupload" name="myfile" type="file" />
+            <input type="submit" value="submit" id="submit" />
            </form>
         </p>
         </td>
