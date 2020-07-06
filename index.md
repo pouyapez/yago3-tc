@@ -13,7 +13,7 @@ layout: default
         <font style="font-size:20px"><b>Submission instructions</b></font>
           <hr>
         <p class="text right-align text-large add-top-margin" style="width:100%;">           
-           You can find the validation and test data <a href="https://github.com/pouyapez/yago3-tc/tree/master/data">here</a>. To get the ranking and evaluation metrics, after training the triple classifier, please submit the labels of test triple in here.  
+           You can find the validation and test data <a href="https://github.com/pouyapez/yago3-tc/tree/master/data">here</a>. To get the ranking and evaluation metrics, after training the triple classifier, please submit the labels of test triples in <a href="https://forms.gle/T4tTJS5P2o1kUKfY8">here</a>. If you want to contribute to improvmenmt of YAGO3-TC benchmark please please drop an email to pezeshkp@uci.edu.
         </p>
         </td>
         <td align="center">
